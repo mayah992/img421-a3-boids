@@ -924,7 +924,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e20a8d9ebf56b0547aa68561649aee2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  offset: {x: 40, y: 20, z: 40}
+  offset: {x: 30, y: 30, z: 30}
   orbitSpeed: 5
 --- !u!114 &963194230
 MonoBehaviour:

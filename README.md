@@ -20,3 +20,5 @@ Terrain Assets found in Unity Asset Store: https://assetstore.unity.com/packages
 Ambience from AudioPapkin on Pixabay: https://pixabay.com/sound-effects/nature-forest-ambience-296528/
 
 Music from oceaniprofondi on Pixabay: https://pixabay.com/music/ambient-butterfly-113600/
+
+Tutorial: https://www.youtube.com/watch?v=WbZpj8WcjN0&t=181s
